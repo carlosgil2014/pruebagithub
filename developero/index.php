@@ -5,6 +5,7 @@
 	$datos = array('nombre'=>'','domicilio'=>'','telefono'=>'','comentario'=>'','id'=>'');
 	$accion= 'insert';
 	include('get.php');
+//se cambio desde github pero no se debe hacer en la web
  ?>
  <!DOCTYPE html>
  <html lang="es">
