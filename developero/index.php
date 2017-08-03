@@ -1,4 +1,4 @@
-<?php 
+<?php
 	/*include ('config/Conexion.php');
 	$db = new Conexion();*/
 	include('agenda.php');
@@ -6,6 +6,7 @@
 	$accion= 'insert';
 	include('get.php');
 //se cambio desde github pero no se debe hacer en la web
+//se cambio desde local esto es correcto
  ?>
  <!DOCTYPE html>
  <html lang="es">
